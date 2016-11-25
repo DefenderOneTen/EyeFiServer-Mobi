@@ -1,6 +1,6 @@
 # EyeFiServer-Mobi
 Server package for the use of EyeFi-Mobi-Cards
-This work is based on a node.js-project created by Michael Brandt. The following differences and improvements have taken place:
+This work is based on a node.js-project created by Michael Brandt (https://github.com/michaelbrandt/node-eyefimobiserver). The following differences and improvements have taken place:
 
 
  * The key seems to be relevant with the current Mobi-Cards, so place it into the key definition below!
