@@ -1,7 +1,7 @@
 var tardir = "/tmp";
 var imgdir = "/volume1/photo/uploads";
 var logfile = "/var/log/eyefiserver.log";
-var key = "7993e08a5596deefe584dd07e838726c"; // Key is always 00..0
+var key = "123456789"; // Key is NOT always 00..0
 
 var eyefi_server = require('express')();
 var tar = require("tar");
