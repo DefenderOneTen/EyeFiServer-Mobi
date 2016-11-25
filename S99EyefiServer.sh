@@ -1,5 +1,4 @@
 ﻿#!/bin/sh
-
 # NOTE: to install as a service, copy to /usr/local/etc/rc.d
 # start: /usr/local/etc/rc.d/S99EyeFiServer.sh start
 # stop: /usr/local/etc/rc.d/S99EyeFiServer.sh stop

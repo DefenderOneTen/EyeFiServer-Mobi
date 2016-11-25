@@ -2,6 +2,7 @@
 
 This work is based on a node.js-project created by Michael Brandt. The following differences and improvements have taken place:
 
+
  * The key seems to be relevant with the current Mobi-Cards, so place it into the key definition below!
  * This script is intented to run on a synology device, so the instructions below are important
  * The uploaded photos are checked via Exif in order to create a folder structure based on the date taken
